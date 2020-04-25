@@ -1,1 +1,2 @@
-# streetHide 
+# streetHide
+Game with GoogleStreetView
